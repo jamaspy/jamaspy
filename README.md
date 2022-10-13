@@ -1,8 +1,21 @@
 - 👋 Hi, I’m @jamaspy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  My name is James, I am a frontend developer based in Sydney
+
+- 👀 I’m interested in
+  - NextJS
+  - GatsbyJS
+  - ReactJS
+  - Tailwind
+  - JAMStack
+
+- 🌱 I’m currently learning
+  - Storybook
+  - Prisma
+  - graphQL
+  - Testing
+
+- 📫 How to reach me
+  - aspin@me.com
 
 <!---
 jamaspy/jamaspy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
